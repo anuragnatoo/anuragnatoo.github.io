@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a final year Computer Science undergraduate student at [IIITDM Kancheepuram](http://iiitdm.ac.in/).
+I love to work on projects involving **Data Analytics**.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Find out more about me in the blogs section.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[coe17b015@iiitdm.ac.in](mailto:coe17b015@iiitdm.ac.in)
