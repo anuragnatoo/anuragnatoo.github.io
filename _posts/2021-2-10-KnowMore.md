@@ -19,4 +19,4 @@ Thanks for visiting my blog and scrolling this far.
 
 Also have a look at some simple projects which I made.
 
-![Honest Work](images/honest.jpeg)
+![Honest Work](./images/honest.jpeg)
