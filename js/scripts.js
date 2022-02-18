@@ -33,6 +33,6 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-function cb(response) {
-    document.getElementById('visits').innerText = response.value;
-}
+// function cb(response) {
+//     document.getElementById('visits').innerText = response.value;
+// }
